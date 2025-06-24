@@ -1,4 +1,3 @@
-from selenium.webdriver.remote.webelement import WebElement
 from tkinter import messagebox
 from PyPDF2 import PdfReader
 import pygetwindow as gw
