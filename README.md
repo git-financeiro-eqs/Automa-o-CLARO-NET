@@ -26,7 +26,7 @@ A automação segue esse mesmo roteiro de ação que o operador seguia.
 
 1. Clone o repositório ou baixe o arquivo ZIP do programa:
 ```bash
-   https://github.com/git-financeiro-eqs/Automacao_Vale.git
+   https://github.com/git-financeiro-eqs/Automacao_CLARO_NET.git
 ```
 2. Instale as dependências:
 ```bash
